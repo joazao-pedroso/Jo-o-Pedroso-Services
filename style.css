@@ -1,7 +1,7 @@
 body{
     background-color: #e61f09;
     color: aliceblue;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Poppins", sans-serif;
     max-width: 1200px;
     margin: 0 auto;
     padding: 15px;
@@ -15,7 +15,7 @@ header{
 .titulo{
     flex-direction: column;
     line-height: 10px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: "Poppins", sans-serif;
 }
 li{
     font-family: "Poppins", sans-serif;
@@ -54,7 +54,7 @@ img{
 }
 a{
  color: aliceblue;
- font-family: fantasy;
+ font-family: "Poppins", sans-serif;
  text-decoration:none; 
 
 }
